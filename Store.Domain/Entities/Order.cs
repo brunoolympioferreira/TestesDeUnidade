@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Flunt.Validations;
 using Store.Domain.Enums;
 
 namespace Store.Domain.Entities
@@ -8,6 +9,12 @@ namespace Store.Domain.Entities
     {
         public Order(Customer customer, decimal deliveryFee, Discount discount)
         {
+            AddNotifications(
+                new Contract()
+                    .Requires()
+                    .IsNotNull(customer, "Customer", "Cliente Inválido")
+            );
+
             Customer = customer;
             Date = DateTime.Now;
             Number = Guid.NewGuid().ToString().Substring(0, 8);
