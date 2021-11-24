@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ObcNYJO12oUmpGmYde/F9dDDnVd0A0+SqTHmUVAb0G4L2h9ag9/ajB0T+RW2UcB/Cg+BYcysSNfUJDvj5Hzt/Q==",
+  "dgSpecHash": "aaPV2jWeEy5430JfOaiZFe0x3bPXY0Iw7Cw+id3u3BYY/uqzZO6suHdrZMTYgg+ZmyerxYhIiMqAv0Ln9ecTWA==",
   "success": true,
-  "projectFilePath": "C:\\Cursos\\RefatorandoParaTestesDeUnidade\\Store\\Store.Domain\\Store.Domain.csproj",
+  "projectFilePath": "C:\\Cursos\\RefatorandoParaTestesDeUnidade\\Store\\store.Domain\\Store.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\b.olympio\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
   ],

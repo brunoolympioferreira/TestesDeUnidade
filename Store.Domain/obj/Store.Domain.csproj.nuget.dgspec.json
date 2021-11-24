@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\RefatorandoParaTestesDeUnidade\\Store\\Store.Domain\\Store.Domain.csproj": {}
+    "C:\\Cursos\\RefatorandoParaTestesDeUnidade\\Store\\store.Domain\\Store.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\RefatorandoParaTestesDeUnidade\\Store\\Store.Domain\\Store.Domain.csproj": {
+    "C:\\Cursos\\RefatorandoParaTestesDeUnidade\\Store\\store.Domain\\Store.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\RefatorandoParaTestesDeUnidade\\Store\\Store.Domain\\Store.Domain.csproj",
+        "projectUniqueName": "C:\\Cursos\\RefatorandoParaTestesDeUnidade\\Store\\store.Domain\\Store.Domain.csproj",
         "projectName": "Store.Domain",
-        "projectPath": "C:\\Cursos\\RefatorandoParaTestesDeUnidade\\Store\\Store.Domain\\Store.Domain.csproj",
+        "projectPath": "C:\\Cursos\\RefatorandoParaTestesDeUnidade\\Store\\store.Domain\\Store.Domain.csproj",
         "packagesPath": "C:\\Users\\b.olympio\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\RefatorandoParaTestesDeUnidade\\Store\\Store.Domain\\obj\\",
+        "outputPath": "C:\\Cursos\\RefatorandoParaTestesDeUnidade\\Store\\store.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\b.olympio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,7 +40,7 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "flunt": {
+            "Flunt": {
               "target": "Package",
               "version": "[1.0.3, )"
             }
